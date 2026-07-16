@@ -1,0 +1,18 @@
+name: Open Source Gate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  open-source-gate:
+    name: open-source-gate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 检查公开仓库
+        run: .github/scripts/open-source-gate.sh --all

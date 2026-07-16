@@ -1,0 +1,15 @@
+interface:
+  display_name: "\u513F\u7AE5\u9605\u8BFB\u5192\u9669\u8BBE\u8BA1"
+  short_description: "\u628A\u4E66\u76EE\u8F6C\u5316\u4E3A\u5B69\u5B50\u53EF\u72EC\
+    \u7ACB\u5B8C\u6210\u7684\u6709\u8DA3\u9605\u8BFB\u6D3B\u52A8\u4E0E\u6210\u957F\
+    \u624B\u518C"
+  default_prompt: "\u4F7F\u7528 $design-child-reading-adventures\uFF0C\u6839\u636E\
+    \u5B69\u5B50\u60C5\u51B5\u548C\u4E66\u76EE\u8BBE\u8BA1\u9605\u8BFB\u6D3B\u52A8\
+    \u4E0E\u6210\u957F\u624B\u518C\u3002"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

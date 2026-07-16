@@ -1,0 +1,50 @@
+{
+  "case_id": "E01_bounded_level_c_ideas",
+  "title": "Three ideas from bibliographic evidence only",
+  "work_type": "design",
+  "domain": "child_reading",
+  "difficulty": "medium",
+  "instructions": "Provide exactly three playful reading ideas using only the supplied bibliographic card. Do not search or assume unseen contents.",
+  "documents": [
+    "documents/input.md"
+  ],
+  "deliverables": {
+    "main_output": "output.md"
+  },
+  "criteria": [
+    {
+      "id": "E01-C01",
+      "title": "Ideas scope",
+      "required": true,
+      "match_criteria": "PASS if the response contains exactly three bounded ideas and does not add a complete plan, schedule, route, or handbook."
+    },
+    {
+      "id": "E01-C02",
+      "title": "Level C limitation",
+      "required": true,
+      "match_criteria": "PASS if the response declares Level C/bibliographic evidence and labels the ideas provisional or genre-level."
+    },
+    {
+      "id": "E01-C03",
+      "title": "No unsupported specificity",
+      "required": true,
+      "match_criteria": "PASS if no plot, page, chapter, character, quotation, or edition-content detail is invented."
+    },
+    {
+      "id": "E01-C04",
+      "title": "Unlock request",
+      "required": true,
+      "match_criteria": "PASS if it concisely states that contents, relevant pages, or the book text would unlock book-specific design."
+    }
+  ],
+  "automatic_failure_triggers": [
+    "wrong_scope",
+    "invented_book_detail",
+    "unlabeled_provisional_content"
+  ],
+  "tags": [
+    "edge",
+    "ideas",
+    "level_c"
+  ]
+}

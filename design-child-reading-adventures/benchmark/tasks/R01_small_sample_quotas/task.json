@@ -1,0 +1,51 @@
+{
+  "case_id": "R01_small_sample_quotas",
+  "title": "Three-core small-sample quota and packet regression",
+  "work_type": "design",
+  "domain": "child_reading",
+  "difficulty": "hard",
+  "instructions": "Create a compact plan containing exactly three core activities for the supplied synthetic text and show the adult-facing audit. Include one printable packet layout.",
+  "documents": [
+    "documents/input.md"
+  ],
+  "deliverables": {
+    "main_output": "output.md"
+  },
+  "criteria": [
+    {
+      "id": "R01-C01",
+      "title": "Correct denominator",
+      "required": true,
+      "match_criteria": "PASS if exactly three activities are labeled core and optional items, if any, are excluded from n."
+    },
+    {
+      "id": "R01-C02",
+      "title": "Correct small-sample counts",
+      "required": true,
+      "match_criteria": "PASS if the audit requires at least 2 toy-like, all 3 autonomous, and 0 fixed-organizer core activities."
+    },
+    {
+      "id": "R01-C03",
+      "title": "Distinct mechanics",
+      "required": true,
+      "match_criteria": "PASS if all three core activities use distinct mechanics rather than claiming four are required."
+    },
+    {
+      "id": "R01-C04",
+      "title": "Packet rule",
+      "required": true,
+      "match_criteria": "PASS if the required loop and navigation fit Pages A-B and Page C is absent or explicitly optional."
+    }
+  ],
+  "automatic_failure_triggers": [
+    "wrong_ratio_math",
+    "wrong_denominator",
+    "wrong_packet_rule",
+    "hidden_adult_dependency"
+  ],
+  "tags": [
+    "regression",
+    "small_sample",
+    "pagination"
+  ]
+}

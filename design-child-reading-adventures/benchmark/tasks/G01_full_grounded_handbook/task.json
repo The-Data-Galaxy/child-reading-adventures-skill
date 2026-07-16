@@ -1,0 +1,58 @@
+{
+  "case_id": "G01_full_grounded_handbook",
+  "title": "Complete grounded handbook from supplied synthetic text",
+  "work_type": "design",
+  "domain": "child_reading",
+  "difficulty": "medium",
+  "instructions": "Use the supplied parent brief and complete synthetic excerpt to create a compact but complete reading-adventure plan and child-facing handbook sample. Include one fully written adventure packet and show how remaining packets would follow the same system.",
+  "documents": [
+    "documents/input.md"
+  ],
+  "deliverables": {
+    "main_output": "output.md"
+  },
+  "criteria": [
+    {
+      "id": "G01-C01",
+      "title": "Full mode and coordinated outputs",
+      "required": true,
+      "match_criteria": "PASS if the response explicitly uses full depth and contains both an adult-facing plan and a child-facing handbook/sample packet."
+    },
+    {
+      "id": "G01-C02",
+      "title": "Grounded content",
+      "required": true,
+      "match_criteria": "PASS if all story-specific details come from the supplied synthetic text and the evidence level is declared as Level A."
+    },
+    {
+      "id": "G01-C03",
+      "title": "Two-page packet",
+      "required": true,
+      "match_criteria": "PASS if Page A contains invitation, reading entry, play start, bridge, and next choice; Page B is the creation/play surface; any Page C is explicitly optional."
+    },
+    {
+      "id": "G01-C04",
+      "title": "Child agency and independence",
+      "required": true,
+      "match_criteria": "PASS if core play leaves at least three meaningful choices open, includes a stop/switch option, and does not depend on adult grading or questioning."
+    },
+    {
+      "id": "G01-C05",
+      "title": "Counts and safety",
+      "required": true,
+      "match_criteria": "PASS if core labels and audit counts use the frozen denominator rules and materials/media have a safe private alternative."
+    }
+  ],
+  "automatic_failure_triggers": [
+    "invented_book_detail",
+    "missing_coordinated_output",
+    "wrong_packet_rule",
+    "hidden_adult_dependency",
+    "unsafe_activity"
+  ],
+  "tags": [
+    "golden",
+    "full",
+    "grounding"
+  ]
+}
