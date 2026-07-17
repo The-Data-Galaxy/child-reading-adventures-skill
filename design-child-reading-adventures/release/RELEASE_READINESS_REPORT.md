@@ -1,6 +1,6 @@
 # v0.1.1 发布就绪报告
 
-当前状态：`release_authorized_pending_push`
+当前状态：`published`
 
 ## 候选范围
 
@@ -24,4 +24,4 @@
 
 ## 发布决定
 
-用户已授权将 v0.1.1 推送至现有公开 GitHub 仓库；推送前仍需通过 canonical repository gate。
+用户已授权将 v0.1.1 推送至现有公开 GitHub 仓库；canonical repository gate 已通过，发布提交为 `a4bfb14`。

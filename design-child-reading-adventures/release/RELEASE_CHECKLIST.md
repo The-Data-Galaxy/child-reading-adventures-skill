@@ -23,6 +23,6 @@
 
 ## 发布
 
-- [ ] canonical worktree 位于 `open-source/child-reading-adventures-skill/`。
-- [ ] origin、仓库注册、共享 hooks 与 GitHub gate 正确。
-- [ ] dry run、apply、repository gate、commit 与 push 完成。
+- [x] canonical worktree 位于 `open-source/child-reading-adventures-skill/`。
+- [x] origin、仓库注册、共享 hooks 与 GitHub gate 正确。
+- [x] dry run、apply、repository gate、commit 与 push 完成。

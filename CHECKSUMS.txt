@@ -1,2 +1,2 @@
 a34543868d1873d808ff365675b708496c8ac10d013b4c1b1fff8cfaab19a9e4  design-child-reading-adventures-v0.1.0.tar.gz
-8712c6bbcdc37cfdc8b8bfe2c3a94015471705009e6aa7d65e6aaec1c77934ff  design-child-reading-adventures-v0.1.1.tar.gz
+b0d398b4ec8adeac722859c89fcf308379a4a925a7c4bdbd206466242f6eea97  design-child-reading-adventures-v0.1.1.tar.gz
