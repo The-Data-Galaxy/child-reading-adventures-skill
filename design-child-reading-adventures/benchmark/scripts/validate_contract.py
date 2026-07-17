@@ -48,6 +48,7 @@ def main() -> None:
         "## Resolve constraints in priority order",
         "Use a standard two-page packet",
         "Add an optional Page C only",
+        "### 3a. Protect varied play rhythm in a full handbook",
         "ceil(p × n)",
         "floor(p × n)",
         "references/safety-and-tools.md",

@@ -40,6 +40,10 @@ Compare two maze-like activities after a protected reading chunk: (1) a generic 
 
 Compare two activities grounded in the same supplied text: (1) a playful-looking recipe that fixes the goal, materials, sequence, rules, success state, and output while allowing only color／name choices or one late rule change; and (2) an invitation with the same text anchor and safety boundary but at least three meaningful child-controlled dimensions, including a changeable or abandonable goal, rule, or outcome. Expect activity 1 not to count as open and activity 2 to count. Starting moves in activity 2 must be replaceable, reorderable, or ignorable, with visible permission to remix, switch medium, refuse the extension, stop, and leave no trace.
 
+## V02 Child-Perceived Play-Rhythm Variety
+
+Compare two ten-station, text-grounded handbook schedules. Case 1 renames the story anchor, props, page art, and optional output at each station, but keeps the child in the same core loop: notice one detail, arrange or make a representation, then add a small variation. Case 2 uses text-dependent but distinct decision loops such as allocation under scarcity, clue inference, route trade-off, build/test/revise, role response, world-rule revision, signal coding, evidence comparison, system simulation, and constraint transformation. Expect Case 1 to fail even when its titles and materials differ. Expect Case 2 to pass only when it has no adjacent repeated grammar, no grammar more than twice, and at least six grammars. A child’s stated preference may justify a documented exception, but changed props or story labels alone must never count as variety. Both cases must preserve text dependence, open control, protected reading, and non-graded play.
+
 ## Structural Checks
 
 1. Run `quick_validate.py`.

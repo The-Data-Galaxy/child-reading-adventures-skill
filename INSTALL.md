@@ -1,6 +1,6 @@
 # 安装说明
 
-版本：`v0.1.0`
+版本：`v0.1.1`
 
 ## 安装到 Codex
 
@@ -24,4 +24,3 @@
 ## 卸载与回退
 
 删除或移走 `~/.codex/skills/design-child-reading-adventures/`，再刷新 Codex。升级前可备份旧目录，以便直接恢复。
-

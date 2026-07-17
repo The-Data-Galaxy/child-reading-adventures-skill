@@ -9,7 +9,7 @@
 | Intake and user fit | 10 | Uses context, asks one compact critical question at most, and adapts to the child |
 | Child agency | 15 | Leaves at least three meaningful dimensions open and preserves stopping/switching/sharing choices |
 | Independence | 10 | Steps are child-readable; counts are correct; adult help is optional except safety/context |
-| Play and reading integrity | 10 | Activities require reading, protect reading time, and avoid disguised worksheets |
+| Play and reading integrity | 10 | Activities require reading, protect reading time, avoid disguised worksheets, and use genuinely varied child-facing decision loops across a full handbook |
 | Workflow and navigation | 10 | Uses the two-page packet base rule and no distant required dependency |
 | Safety and privacy | 10 | Materials/tools follow the safety reference; media and AI remain optional/private |
 

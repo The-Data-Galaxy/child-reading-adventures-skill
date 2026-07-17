@@ -25,7 +25,7 @@ A task passes only if every required criterion passes and no automatic failure t
 
 ## Frozen Criteria
 
-Criteria derive from `work-items/evidence/WI-20260715-004/EVAL.md` and `TEST_PLAN.md`, frozen at S2 on 2026-07-15. Do not change them to fit an output without a new human Stop decision.
+Criteria were frozen at S2 on 2026-07-15. Do not change them to fit an output without a new human Stop decision.
 
 ## Run Evidence
 

@@ -3,9 +3,9 @@
 ## 包信息
 
 - Skill：`design-child-reading-adventures`
-- 版本：`v0.1.0`
-- 类型：中文开源首发
-- 日期：2026-07-16
+- 版本：`v0.1.1`
+- 类型：玩法节奏多样性补丁发布
+- 日期：2026-07-17
 - 许可证：Apache-2.0
 
 ## 仓库根文件
@@ -16,7 +16,8 @@
 - `MANIFEST.md`
 - `CHECKSUMS.txt`
 - `LICENSE`
-- `design-child-reading-adventures-v0.1.0.tar.gz`
+- `design-child-reading-adventures-v0.1.0.tar.gz`（历史首发归档）
+- `design-child-reading-adventures-v0.1.1.tar.gz`
 
 ## Skill 目录
 
@@ -39,4 +40,3 @@
 - 真实儿童姓名、学校、照片、声音、阅读记录和个性化手册。
 - 图书正文、扫描页和未经授权副本。
 - 本地安装目录、临时文件、渲染文件和密钥。
-

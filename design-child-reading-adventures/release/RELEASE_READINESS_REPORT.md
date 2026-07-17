@@ -1,42 +1,27 @@
-# v0.1.0 发布就绪报告
+# v0.1.1 发布就绪报告
 
-当前状态：`validation_passed / promotion_accepted / release_authorized`
+当前状态：`release_authorized_pending_push`
 
 ## 候选范围
 
-中文开源首发；只打包当前已安装、已验证的 Skill 与公开评估材料，不修改运行时行为。
+将已验证的玩法节奏多样性修正作为补丁版本发布。公开包只包含可复用 Skill、模板、合成测试定义、安装材料与结果摘要。
 
-## 现有证据
+## 验证摘要
 
 - 固定自审 smoke：5/5 任务、19/19 必需标准通过；0 自动失败，0 回归失败。
-- I01、V01、P01、T01、O01 定向回归通过。
-- 安装后结构与逐文件一致性检查通过。
-- 真实 DOCX/PDF 成人／儿童双文件已生成并逐页检查，无错位；相关真实产物不公开。
+- I01、V01、P01、T01、O01、V02 定向回归通过。
+- 公开包已通过 Skill 结构、确定性契约、许可证、checksum、安装模拟和公开仓库 gate 检查。
 
 ## 已知限制
 
 - 当前正式 benchmark 主要为静态／自审证据，尚无隔离的新代理 forward test。
-- 图书版本、内容与分页证据仍依赖用户提供或合法可访问来源。
+- 图书版本、内容与分页证据依赖用户提供或合法可访问来源。
 - 不保证阅读兴趣、理解力或长期学习结果。
 
 ## 公共边界
 
-公开包排除真实儿童信息、用户手册产物、图书正文、内部路径与全部运行证据原件，只保留可复用 Skill、合成测试和结果摘要。
-
-## 候选检查结果
-
-- Skill `quick_validate.py`：PASS。
-- 确定性合同检查：PASS。
-- SkillOps 治理检查：PASS，0 error / 0 warning。
-- Markdown 本地链接：PASS。
-- 敏感路径、儿童姓名与凭证模式扫描：PASS，无命中。
-- 发布归档 SHA-256：PASS。
-- 临时 Codex skills 目录安装模拟与结构检查：PASS。
+不公开真实儿童信息、用户生成手册、图书正文、内部工作项、运行原始证据、本地路径、凭证或私有流程。
 
 ## 发布决定
 
-S5 验证通过；用户已明确要求放入 open-source 并上传 GitHub，因此 S6 推广与 S7 外部发布均已授权，前提是 canonical worktree gate 在推送前继续通过。
-
-## 待完成
-
-- canonical worktree 同步、commit 与 GitHub push。
+用户已授权将 v0.1.1 推送至现有公开 GitHub 仓库；推送前仍需通过 canonical repository gate。

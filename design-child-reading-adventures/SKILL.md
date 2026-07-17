@@ -128,6 +128,18 @@ Use an open-play control budget:
 
 Give non-obvious play a teaser, curiosity hook, optional noticing secret, safe materials or no-material version, two to four starting moves, a tiny non-prescriptive example, and a visible handoff of control. A child should make the first physical or imaginative move within 90 seconds.
 
+### 3a. Protect varied play rhythm in a full handbook
+
+For a child-facing handbook with four or more core activities, make a parent-only play-rhythm audit before laying out the child pages. For every core activity, name its **primary interaction grammar**: the child’s central decision loop, such as allocating under scarcity, inferring from clues, choosing a route with consequences, building and testing, performing a role response, revising a world rule, encoding with sound, comparing evidence, or transforming a constraint.
+
+Do not count a changed title, story detail, prop, visual layout, output medium, trace, or decorative theme as a new grammar unless it changes what the child actually decides, tests, or does. A sequence of renamed “notice something, then make or arrange an object” activities is one repeated grammar.
+
+- With `n >= 4`, do not place the same primary grammar in adjacent core activities; use each grammar at most twice and include at least four primary grammars.
+- With `n >= 8`, include at least six primary grammars.
+- If a child explicitly prefers a recurring medium or mechanic, preserve that preference but vary the underlying decision loop where possible; record the justified exception in the adult audit rather than pretending it is diverse.
+
+Keep every grammar text-dependent, non-graded, and compatible with child control. Do not expose this audit arithmetic on child pages.
+
 ### 4. Calculate quantitative gates consistently
 
 Let `n` be the number of activities labeled `core`; exclude optional activities from every denominator.

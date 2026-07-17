@@ -46,6 +46,19 @@ Use these as mechanics, not as rewards for correct answers. Give each one a real
 
 Across one handbook, avoid repeating the same mechanic more than twice. Do not follow a physical game with a compulsory written explanation of what it taught.
 
+## Child-perceived play-rhythm audit
+
+Before designing a handbook with four or more core activities, make a parent-only sequence with one **primary interaction grammar** for each activity. A grammar is the child’s central decision loop—not the book detail, title, prop, illustration, output medium, or optional trace.
+
+Useful distinct grammars include allocating scarce resources, inferring from clues, choosing a route with consequences, building then testing, interviewing or answering in role, revising a rule, encoding or decoding with sound/signals, comparing competing evidence, simulating a system, and transforming one constraint into another. Combine or invent grammars when the text calls for it; do not treat this list as a required menu.
+
+- With four or more core activities, do not repeat a primary grammar in adjacent activities, use one grammar at most twice, and use at least four grammars overall.
+- With eight or more core activities, use at least six grammars overall.
+- Treat activities as the same grammar when only their story anchor, title, props, page layout, trace, or final artifact changes. For example, “notice an obstacle then draw a route,” “notice a decision then build a route,” and “notice a relationship then arrange a route” remain one route-arranging loop unless the child’s actual decision process changes.
+- A child’s stated love of one medium can justify a repeated medium, but not a false claim of varied play. Keep the medium and vary the decision loop where possible; explain any exception in the adult audit.
+
+Keep this audit adult-facing. On child pages, make the change visible through genuinely different invitations and play surfaces, never through labels or compliance counts.
+
 ## Agency test
 
 Reject or reopen an activity when:
@@ -156,6 +169,6 @@ Use panel-direction tracing, silent-page narration, color/motif tracking, image-
 
 ## Variety rule
 
-Across a multi-book plan, use at least four activity families. Within one book, avoid more than two activities with the same output medium. Always include at least one activity that leaves no written output.
+Across a multi-book plan, use at least four activity families. Within one book, avoid more than two activities with the same output medium. Always include at least one activity that leaves no written output. Apply the child-perceived play-rhythm audit above whenever the handbook has four or more core activities.
 
 For a child-facing handbook, make at least half of core activities open-play patterns. Do not put a report, diagram, or written reflection after every reading. Treat writing and drawing as possible materials, not default proof of reading.
